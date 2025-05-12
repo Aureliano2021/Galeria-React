@@ -6,6 +6,7 @@ const Page = () => {
       <div className="container mx-auto px-32 justify-center items-center">
         <Image2/>
       </div>
+      <footer>Criado por <a href="https://aureliano-oliveira.vercel.app/" className="text-blue-500 text-sm">Aureliano Amorim</a></footer>
     </>
   )
 }
